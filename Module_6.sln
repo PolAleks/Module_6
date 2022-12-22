@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rectangle", "Rectangle\Rect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bus", "Bus\Bus.csproj", "{14890EC4-6F87-4662-BAC7-3A66DF912BC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{6BA01FF0-75F2-4312-87EE-DB7D74FC2869}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{14890EC4-6F87-4662-BAC7-3A66DF912BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14890EC4-6F87-4662-BAC7-3A66DF912BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14890EC4-6F87-4662-BAC7-3A66DF912BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA01FF0-75F2-4312-87EE-DB7D74FC2869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA01FF0-75F2-4312-87EE-DB7D74FC2869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA01FF0-75F2-4312-87EE-DB7D74FC2869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA01FF0-75F2-4312-87EE-DB7D74FC2869}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
